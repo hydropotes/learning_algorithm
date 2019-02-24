@@ -1,2 +1,5 @@
-# learning_algorithm
-Learning algorithm, data structure
+# Learning Algorithm
+This is repository for learning algorithm and data structure.
+
+* Algorithm
+* Data Structure
